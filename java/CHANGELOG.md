@@ -1,6 +1,13 @@
-## 5.0.0 (2020-09-13)
-
 ### IMPORTANT: </p>THIS VERSION IS NOT 100%  COMPATIBLE WITH OLDER VERSIONS AS SOME OF THE OBJECTS AND THEIR LOCATIONS HAVE MOVED.
+
+## 5.0.1 (2021-03-23)
+
+#### Changes
+* Removed system wide proxy and replaced with connection proxy.
+* Updated Express Checkout to use current parameters and flow.
+* Removed the dependency of the sun.misc.BASE64Encoder and replaced it with java.util.Base64.
+
+## 5.0.0 (2020-09-13)
 
 #### Changes
 These changes will need to be incorporated into your existing integration before you can use this version.
